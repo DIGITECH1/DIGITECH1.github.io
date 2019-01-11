@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "digitech.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -627,10 +627,10 @@
         }
       ]
     },
-    "page1.html": {
+    "digitech.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "Page 1",
+        "meta_descr": "digitech company",
+        "title": "digitech",
         "order": 2
       },
       "components": [
